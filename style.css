@@ -8,3 +8,9 @@
 .primary-text-color    { color: #212121; }
 .secondary-text-color  { color: #757575; }
 .divider-color         { border-color: #BDBDBD; }
+
+/* The following styles are for the (invisible) page grid */
+
+#page-grid {
+    size: 100%;
+}
